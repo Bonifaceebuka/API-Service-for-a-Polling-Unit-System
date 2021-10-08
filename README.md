@@ -36,35 +36,13 @@ This application is built with the following technologies:
 Visit http://kinetic-store.herokuapp.com/ to see the live version of this application
 
 #### The Home Page
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/home.PNG">
+<img src="https://github.com/Bonifaceebuka/bincom-assessment/blob/master/screenshots/home.PNG">
 
-#### Adding New Item via AJAX
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/create-new-item.PNG">
+#### The voting result of a particular Polling units (Question No. 1)
+<img src="https://github.com/Bonifaceebuka/bincom-assessment/blob/master/screenshots/polling_unit_results.PNG">
 
-#### Success Message After Adding New Item via AJAX
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/new-added-item.PNG">
+#### List of the L.G.A and the total number of polling units that are registered under them(Question No. 2)
+<img src="https://github.com/Bonifaceebuka/bincom-assessment/blob/master/screenshots/lga-polling-units.PNG">
 
-#### Update The Unit Price Of An Item Via AJAX
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/Update-unit-price.PNG">
-
-#### Prompt for Removing An Item. Done with SweetAlert Plugin
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/delete-item-prompt.PNG">
-
-#### Items List By Category
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/items-by-category.PNG">
-
-#### Pay For An Item By Card
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/pay-by-card.PNG">
-
-#### Pay For An Item With Token
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/pay-by-token.PNG">
-
-#### Success Message After Paying For An Item
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/successful-purchase.PNG">
-
-#### List Of All The Purchases
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/purchases-list.PNG">
-
-#### List Profit In Categories
-<img src="https://github.com/Bonifaceebuka/assignment-for-a-software-engineer/blob/master/screenshots/profit-by-category.PNG">
-
+#### Adding New Result via AJAX(Question No. 3)
+<img src="https://github.com/Bonifaceebuka/bincom-assessment/blob/master/screenshots/new-result.PNG">
