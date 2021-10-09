@@ -7,9 +7,9 @@
 <title>BinCom | @yield('title')</title>
 <!-- CSRF Token -->
 <meta name="csrf-token" content="{{ csrf_token() }}">
-<link rel="stylesheet" href="{{asset('assets/bootstrap/css/bootstrap.min.css')}}">
-<link rel="stylesheet" type="text/css" href="{{asset('assets/css/styles.css')}}">
-<link rel="stylesheet" type="text/css" href="{{asset('assets/font-awesome-4.1.0/css/font-awesome.min.css')}}">
+<link rel="stylesheet" href="{{secure_asset('assets/bootstrap/css/bootstrap.min.css')}}">
+<link rel="stylesheet" type="text/css" href="{{secure_asset('assets/css/styles.css')}}">
+<link rel="stylesheet" type="text/css" href="{{secure_asset('assets/font-awesome-4.1.0/css/font-awesome.min.css')}}">
 @section('extra-styles')
 @show
   <body>
@@ -38,9 +38,9 @@
         @section('content')
         @show()
       </div>
-<script src="{{asset('assets/js/jQuery.min.js')}}"></script>
-<script src="{{asset('assets/bootstrap/js/bootstrap.min.js')}}"></script>
-<script src="{{asset('assets/js/sweetalert/sweetalert.min.js')}}"></script>
+<script src="{{secure_asset('assets/js/jQuery.min.js')}}"></script>
+<script src="{{secure_asset('assets/bootstrap/js/bootstrap.min.js')}}"></script>
+<script src="{{secure_asset('assets/js/sweetalert/sweetalert.min.js')}}"></script>
 @section('extra-js')
 @show()
 </body>
