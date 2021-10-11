@@ -33,7 +33,7 @@ This application is built with the following technologies:
 
 ### The Screenshots of the front-end of the system
 
-Visit http://kinetic-store.herokuapp.com/ to see the live version of this application
+Visit https://bincom-assessment.herokuapp.com/ to see the live version of this application
 
 #### The Home Page
 <img src="https://github.com/Bonifaceebuka/bincom-assessment/blob/master/screenshots/home.PNG">
